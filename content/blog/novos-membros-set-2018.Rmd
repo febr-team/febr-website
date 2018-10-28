@@ -47,11 +47,15 @@ ___febr___ em projetos de mapeamento digital do solo. Assim como Matheus e Mikae
 de Bacharelado em Ciência da Computação da UTFPR-SH, atuando como voluntário no Programa Institucional em 
 Iniciação Científica e Tecnológica ([PIVICT][pivict]).
 
+
 [lattesRander]: http://lattes.cnpq.br/9844984024940216
 [planoRander]: https://docs.google.com/document/d/1sxRSJkP1z1jNWVfeBNz79X15mSEfO9j07m-l26aWh18/edit?usp=sharing
 [pivict]: http://portal.utfpr.edu.br/editais/pesquisa-e-pos-graduacao/reitoria/programa-institucional-de-voluntariado-em-iniciacao-cientifica-e-tecnologica
 
-![Os mais novos integrantes da equipe do ___febr___: Matheus, ao fundo, Mikael, à frente, e Rander, à direita. Ao centro, Alessandro, coordenador do ___febr___.](/blog/novos-membros-set-2018_files/equipe-set-2018.jpg)
+
+<!-- ![Os mais novos integrantes da equipe do ___febr___: Matheus, ao fundo, Mikael, à frente, e Rander, à direita. Ao centro, Alessandro, coordenador do ___febr___.](/img/blog-foto/novos-membros-set-2018_files/equipe-set-2018.jpg) -->
+
+![Os mais novos integrantes da equipe do ___febr___: Matheus, ao fundo, Mikael, à frente, e Rander, à direita. Ao centro, Alessandro, coordenador do ___febr___.](http://www.suporte.cpd.ufsm.br/newftp/index.php?ftpserver=coral.ufsm.br&ftpserverport=21&username=febr&language=pt&skin=shinra&ftpmode=automatic&passivemode=no&protocol=FTP&viewmode=list&sort=&sortorder=&state=view&state2=image&directory=%2Fusrdocs%2Fblog%2Fnovos-membros-set-2018_files&entry=equipe-set-2018.jpg)
 
 Com a entrada desses três novos membros na equipe, os dados do repositório passarão por uma ampla revisão e 
 verificação de consistência. Isso trará mais qualidade e confiança para o ___febr___. O compartilhamento 
